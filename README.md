@@ -9,7 +9,7 @@ Proyek perancangan dan analisis basis data relasional (*Relational Database Mana
   - Client Tools: **pgAdmin 4** / **psql**
 
 2. Langkah Inisialisasi
-  a. Buka PostgreSQL Management Tool pilihan Anda.
-  b. Buat basis data baru:
+  - Buka PostgreSQL Management Tool pilihan Anda.
+  - Buat basis data baru:
    ```sql
    CREATE DATABASE garasi_sewa_db;
